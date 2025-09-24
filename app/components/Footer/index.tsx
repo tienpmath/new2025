@@ -42,8 +42,7 @@ const footer = () => {
               <Image src="/logo (3).png" alt="alt" width={150} height={100} />
             
             <h3 className='text-lightblue text-sm font-normal leading-9 mb-4 lg:mb-16'> 
-            Bitnova Labs Ltd is an active company incorporated on 27 August 2025 with the registered office located in London, Greater London. Bitnova Labs Ltd was registered 26 days ago.
-Watch Company
+           
               </h3>
             <div className='flex gap-4'>
               {socialLinks.map((items, i) => (

@@ -54,8 +54,8 @@ const Work = () => {
                 <div className="radial-bgone hidden lg:block"></div>
                 <div className='text-center mb-14'>
                     <h3 className='text-offwhite text-3xl md:text-5xl font-bold mb-3'>Featured Projects</h3>
-                    <p className='text-bluish md:text-lg font-normal leading-8'>Favtech Labs always brings dedication to every accompanying project.
-<br /> LPrime Vision and Path Unveiled by Favtech Labs.</p>
+                    <p className='text-bluish md:text-lg font-normal leading-8'>Bitnovalabs always brings dedication to every accompanying project.
+<br /> LPrime Vision and Path Unveiled by bitnovalabs.</p>
                 </div>
 
                 <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-y-20 gap-x-5 mt-32'>

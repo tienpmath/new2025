@@ -10,18 +10,29 @@ interface faqdata {
 
 const faqdata: faqdata[] = [
     {
-        heading: "1. What is cryptocurrency?",
-        subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into'
+        heading: "1.  What is BitnovaLabs?",
+        subheading: 'BitnovaLabs is a technology development and venture support company specializing in building DeFi solutions, Web3 applications, and next-generation decentralized products.'
     },
     {
-        heading: "2. Can cryptocurrency be converted to cash?",
-        subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into'
+        heading: "2. What services does BitnovaLabs provide?",
+        subheading: 'We offer end-to-end support, including: Building and scaling DeFi solutions.<br /> Developing Web3 applications.gic and technical consulting.<br/>Helping blockchain startups raise funds and grow.'
+    }, {
+        heading: "3. Who are BitnovaLabs’ target clients?",
+        subheading: 'We work with technology startups, blockchain businesses, and innovators looking to build decentralized products and expand globally'
     },
     {
-        heading: "3. How long should you hold cryptocurrency?",
-        subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into'
+        heading: "3. Who are BitnovaLabs’ target clients?",
+        subheading: 'We work with technology startups, blockchain businesses, and innovators looking to build decentralized products and expand globally'
     },
-
+ {
+        heading: "4. Why should I partner with BitnovaLabs?",
+        subheading: 'We combine technical expertise with strategic guidance, ensuring your project is not only well-built but also positioned for sustainable growth.'
+    },
+    {
+        heading: "6. How can I contact BitnovaLabs?",
+        subheading: 'You can reach us via email at Support@bitnovalabs.com or join our official Telegram channel: https://t.me/bitnovalabs'
+    },
+   
 ]
 
 const Faq = () => {
